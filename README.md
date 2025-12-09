@@ -1,8 +1,8 @@
 
 ```
 © Credits
-Modified Baileys @daffadevv
-Source Bailyes @yumevtc
+Modified Baileys @aimasja
+Source Bailyes @daffadevv
 ```
 
 # WhatsApp Baileys
